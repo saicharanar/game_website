@@ -1,0 +1,155 @@
+body {
+    margin: 0px;
+}
+
+.page {
+    height: 1015.5px;
+    margin: 0px;
+    font-family: Lato, sans-serif;
+    font-size: 18px;
+    overflow: hidden;
+}
+
+/* Header and Navigation panel */
+
+.main-header {
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    margin: 0px auto;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.site-name {
+    width: 10%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    color: #f887ff;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+.menu-container {
+    width: 50%;
+    height: 100%;
+}
+
+.nav-menu {
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: stretch;
+}
+
+.nav-menu > li {
+    width: 20%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+.nav-menu > li:hover {
+    background-color: green;
+}
+
+/* Sid and Main Body Container */
+
+.content-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+/* Side-Body */
+
+.side-body {
+	width: 15%;
+	height: 100%;
+	background-color: black;
+	color: white;
+}
+
+.side-body > p {
+    margin: 0px;
+    padding: 20px;
+    font-weight: 200;
+    font-size: 0.9em;
+}
+
+.side-body > nav {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+.side-body > nav > ul {
+	width: 100%;
+	height: 100%;
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	display: flex;
+	flex-direction: column;
+}
+
+.side-body > nav > ul > li {
+	width: 100%;
+	height: 5%;
+	padding-left: 20px;
+	display: flex;
+	justify-content: stretch;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.side-body > nav > ul > li:hover {
+	background-color: green;
+}
+
+/* main-body content  */
+
+.main-body {
+    width: 85%;
+    overflow: scroll;
+}
+
+article {
+    width: 85%;
+    margin: 20px auto;
+    padding-bottom: 30px;
+    border-bottom: 2px solid rgba(0,0,0,0.2);
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: 400;
+}
+
+figure,h3,h4 {
+    margin : 0px;
+}
+
+.cover-art {
+    height: 300px;
+}
+
+.description {
+    margin-top: 20px;
+}
+
+.game-info-list {
+    padding: 20px 0px;
+}

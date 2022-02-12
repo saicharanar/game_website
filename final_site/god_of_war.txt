@@ -1,0 +1,57 @@
+<article id="god-of-war">
+                        <header>
+                            <h2>GOD OF WAR</h2>
+                        </header>
+                        
+                        <figure>
+                            <img src="images/god_of_war.jpeg" alt="god-of-war" title="god-of-war" class="cover-art">
+                        </figure>
+    
+                        <div>
+                            <table class="game-info-list">
+                                <tr>
+                                    <td>Initial release: </td>
+                                    <td>20 April 2018</td>
+                                </tr>
+                                <tr>
+                                    <td>Developer: </td>
+                                    <td><a href="https://sms.playstation.com/" target="_blank">Santa Monica</a></td>
+                                </tr>
+                                <tr>
+                                    <td>Series: </td>
+                                    <td><a href="https://en.wikipedia.org/wiki/God_of_War_(franchise)" target="_blank">God of War</a></td>
+                                </tr>
+                                <tr>
+                                    <td>Publisher: </td>
+                                    <td><a href="https://www.sie.com/en/index.html" target="_blank">Sony interactive entertainment</a></td>
+                                </tr>
+                                <tr>
+                                    <td>Platform: </td>
+                                    <td>Playstation,Windows</td>
+                                </tr>
+                            </table>
+                        </div>
+    
+                        <figure>
+                            <figcaption class="screenshot-caption">
+                                SCREENSHOTS(click to enlarge)
+                            </figcaption>
+                            <a href="http://s01.riotpixels.net/data/3d/5c/3d5c5b3d-4204-4971-97f2-e9d07524acc0.jpg.1080p.jpg/screenshot.god-of-war-ii-2018.1920x1080.2021-10-20.55.jpg" target="_blank">
+                                <img src="http://s01.riotpixels.net/data/3d/5c/3d5c5b3d-4204-4971-97f2-e9d07524acc0.jpg.1080p.jpg/screenshot.god-of-war-ii-2018.1920x1080.2021-10-20.55.jpg" alt="god" width="300">
+                            </a>
+                
+                            <a href="http://s01.riotpixels.net/data/3e/89/3e89b07e-7f7f-4869-ab52-77fab1010580.jpg.1080p.jpg/screenshot.god-of-war-ii-2018.1920x1080.2021-10-20.53.jpg" target="_blank">
+                                <img src="http://s01.riotpixels.net/data/3e/89/3e89b07e-7f7f-4869-ab52-77fab1010580.jpg.1080p.jpg/screenshot.god-of-war-ii-2018.1920x1080.2021-10-20.53.jpg" alt="god" width="300">
+                            </a>
+                        </figure>
+    
+                        <div class="description">
+                            <h3>Game Description</h3>
+                            <h4>Campaign:</h4>
+                            <p>
+                                His vengeance against the Gods of Olympus years behind him, Kratos now lives as a man in the realm of Norse Gods and monsters. It is in this harsh, unforgiving world that he must fight to survive… and teach his son to do the same.
+                            </p>
+                            <strong>No Multiplayer available</strong>
+                        </div>
+
+                    </article>
